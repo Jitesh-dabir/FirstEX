@@ -1,0 +1,3 @@
+Hi
+Helo
+This is for practise Git and solve Confusion
